@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "855172475327",
+    "project_id": "hangry-94bea",
+    "storage_bucket": "hangry-94bea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855172475327:android:2d62dbf17c96d5db0e190a",
+        "android_client_info": {
+          "package_name": "com.example.hangry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855172475327-913f6ta8biors3e1cboguqj4jeqg9okq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hangry",
+            "certificate_hash": "73c63808cef4e8c31aad535f8108ba5702f0776f"
+          }
+        },
+        {
+          "client_id": "855172475327-a7r5hrphktrhg911cfm1o3qd916m08gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiDtRQPFHrSjYr8VbeO8qEynvtGt_e9uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855172475327-a7r5hrphktrhg911cfm1o3qd916m08gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
